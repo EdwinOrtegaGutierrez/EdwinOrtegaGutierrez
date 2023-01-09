@@ -1,4 +1,4 @@
-<p><img align="center" src="https://www.canva.com/design/DAFXJTTCSa8/nbNSxPPTqPPHEYJAiz9wiQ/view?utm_content=DAFXJTTCSa8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="edwinortegagutierrez" /></p>
+![eddy](presentacion.png)
 
 <h1 align="center">Hi 👋, I'm Ortega Edwin</h1>
 <h3 align="center">A passionate full stack developer</h3>
