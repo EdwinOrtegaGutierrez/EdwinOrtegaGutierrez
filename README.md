@@ -41,7 +41,7 @@
 <p><a href="https://www.buymeacoffee.com/eddyded49s"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="eddyded49s" /></a><a href="https://ko-fi.com/eddyded"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="eddyded" /></a></p><br><br>
 
 <br><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edwinortegagutierrez&show_icons=true&locale=en&layout=compact" alt="edwinortegagutierrez" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edwinortegagutierrez&show_icons=true&locale=en&layout=compact" alt="edwinortegagutierrez" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edwinortegagutierrez&show_icons=true&locale=en" alt="edwinortegagutierrez" /></p>
 
