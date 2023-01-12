@@ -42,9 +42,8 @@
 
 <br><br>
 
-<p><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=edwinortegagutierrez" alt="edwinortegagutierrez" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EdwinOrtegaGutierrez&show_icons=true&locale=en&layout=compact" alt="edwinortegagutierrez" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edwinortegagutierrez" alt="edwinortegagutierrez" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EdwinOrtegaGutierrez&show_icons=true&locale=en" alt="edwinortegagutierrez" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edwinortegagutierrez&" alt="edwinortegagutierrez" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EdwinOrtegaGutierrez&" alt="edwinortegagutierrez" /></p>
