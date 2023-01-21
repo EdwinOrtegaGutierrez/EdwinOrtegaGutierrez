@@ -1,3 +1,4 @@
+<p align="center"> <img src="/presentacion.png" alt="edwinortegagutierrez" /> </p>
 <h1 align="center">Hi 👋, I'm Ortega Edwin.</h1>
 <h3 align="center">A passionate full stack developer.</h3>
 
