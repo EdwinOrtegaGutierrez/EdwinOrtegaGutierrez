@@ -32,7 +32,7 @@
 - 🤝 Looking for help with **cutting-edge technologies in computer vision and machine learning.**
 
 - 👨‍💻 All of my projects are available at
-[https://github.com/EdwinOrtegaGutierrez](https://github.com/EdwinOrtegaGutierrez)
+  [https://github.com/EdwinOrtegaGutierrez](https://github.com/EdwinOrtegaGutierrez)
 
 - 💬 Ask me about **cloud infrastructure, AI, robotics, backend and frontend development, and microservices.**
 
@@ -96,28 +96,20 @@
     </div>
     <div style="padding: 20px; background-color: #fff; border-radius: 10px; width: 150px; display: flex; justify-content: center; align-items: center;flex-wrap:wrap;">
         <span style='font-weight:500; margin-bottom:10px;color:#151c26'>Database Management:</span>
-<p align="left">
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" 
-            alt="mysql" width="40" height="40" />
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" 
-            alt="mongodb" width="40" height="40" />
-    </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" 
-            alt="postgresql" width="40" height="40" />
-    </a>
-    <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" 
-            alt="mariadb" width="40" height="40" />
-    </a>
-    <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" 
-            alt="cassandra" width="40" height="40" />
-    </a>
-</p>
+        <p align="left">
+            <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" 
+                    alt="mysql" width="40" height="40" />
+            </a>
+            <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" 
+                    alt="mongodb" width="40" height="40" />
+            </a>
+            <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
+                <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" 
+                    alt="mariadb" width="40" height="40" />
+            </a>
+        </p>
     </div>
     <div style="padding: 20px; background-color: #f2b749; border-radius: 10px; width: 150px; display: flex; justify-content: center; align-items: center;flex-wrap:wrap;">
         <span style='font-weight:500; margin-bottom:10px;color:#151c26'>DevOps & Tools:</span>
@@ -154,7 +146,6 @@
     </div>
 </div>
 
-
 <h3 align="left">Support.</h3>
 <p style='display:flex; gap:20px; justify-content:center;'>
     <a href="https://www.buymeacoffee.com/eddyded49s"> 
@@ -170,7 +161,6 @@
             alt="eddyded" />
     </a>
 </p>
-
 
 <h3 align="left">GitHub Information.</h3>
 <div style='display:flex; flex-wrap:wrap; gap:10px; justify-content:center;'>
