@@ -1,4 +1,4 @@
-<p align="center"> <img src="presentacion.png" alt="edwinortegagutierrez" style='border-radius:30px' /> </p>
+<p align="center"> <img src="background.png" alt="edwinortegagutierrez" style='border-radius:30px' /> </p>
 <h1 align="center">Hi 👋, I'm Ortega Edwin.</h1>
 <span style="text-align: center;"> I am a Computer Science Engineer passionate about sustainable technological
     development
