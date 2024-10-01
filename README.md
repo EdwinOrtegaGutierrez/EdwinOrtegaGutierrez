@@ -48,14 +48,14 @@
 
 
 ### Support.
-<p style='display:flex; gap:20px; justify-content:center;'>
+<p>
     <a href="https://www.buymeacoffee.com/eddyded49s"> 
         <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="eddyded49s" />
     </a>
     <a href="https://ko-fi.com/eddyded"> 
         <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="eddyded" />
     </a>
-</p>
+</p><br><br>
 
 ### GitHub Information.
 <div style='display:flex; flex-wrap:wrap; gap:10px; justify-content:center;'>
