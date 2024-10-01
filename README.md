@@ -3,7 +3,7 @@
 </p>
 
 # Hi 👋, I'm Ortega Edwin.
-<span style="text-align: center;"> 
+<span style="text-align: center; margin-bottom:10px;"> 
     I am a Computer Science Engineer passionate about sustainable technological development and creating scalable solutions. Throughout my career, I have worked on various projects, ranging from AI-based applications to implementing robust backend infrastructures with microservices and REST APIs. My experience spans from collaborating with large corporations like IBM to developing innovative projects in robotics and computer vision. With skills in programming languages such as Python, C#, and frameworks like Angular and React, I specialize in building efficient and optimized systems for diverse industries. Additionally, I have a strong interest in musical composition and technology applied to music.
 </span>
 
