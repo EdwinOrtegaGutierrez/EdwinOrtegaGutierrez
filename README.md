@@ -38,12 +38,13 @@
 </p>
 
 ### Languages and Tools:
-
-<img src="Front.png" alt="edwinortegagutierrez" style="border-radius:30px" width='150' /> 
-<img src="back.png" alt="edwinortegagutierrez" style="border-radius:30px" width='150'/> 
-<img src="db.png" alt="edwinortegagutierrez" style="border-radius:30px" width='150'/> 
-<img src="devops.png" alt="edwinortegagutierrez" style="border-radius:30px" width='150'/> 
-<img src="other.png" alt="edwinortegagutierrez" style="border-radius:30px" width='150'/> 
+<p align="center">
+    <img src="Front.png" alt="edwinortegagutierrez" style="border-radius:30px" width='150' /> 
+    <img src="back.png" alt="edwinortegagutierrez" style="border-radius:30px" width='150'/> 
+    <img src="db.png" alt="edwinortegagutierrez" style="border-radius:30px" width='150'/> 
+    <img src="devops.png" alt="edwinortegagutierrez" style="border-radius:30px" width='150'/> 
+    <img src="other.png" alt="edwinortegagutierrez" style="border-radius:30px" width='150'/> 
+</p>
 
 
 ### Support.
