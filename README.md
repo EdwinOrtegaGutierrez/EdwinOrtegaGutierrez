@@ -1,10 +1,12 @@
 <p align="center"> 
-    <img src="background.png" alt="edwinortegagutierrez" style='border-radius:30px' /> 
+    <img src="background.png" alt="edwinortegagutierrez" style="border-radius:30px" /> 
 </p>
-<h1 align="center">Hi 👋, I'm Ortega Edwin.</h1>
+
+# Hi 👋, I'm Ortega Edwin.
 <span style="text-align: center;"> 
     I am a Computer Science Engineer passionate about sustainable technological development and creating scalable solutions. Throughout my career, I have worked on various projects, ranging from AI-based applications to implementing robust backend infrastructures with microservices and REST APIs. My experience spans from collaborating with large corporations like IBM to developing innovative projects in robotics and computer vision. With skills in programming languages such as Python, C#, and frameworks like Angular and React, I specialize in building efficient and optimized systems for diverse industries. Additionally, I have a strong interest in musical composition and technology applied to music.
 </span>
+
 <div style="padding: 20px; background-color: #1a1a1a50; border-radius: 10px; margin: 10px 0 20px 0">
     <p align="left"> 
         <img src="https://komarev.com/ghpvc/?username=edwinortegagutierrez&label=Profile%20views&color=0e75b6&style=flat" alt="edwinortegagutierrez" /> 
@@ -17,34 +19,25 @@
 </div>
 
 - Currently working on [Dsanro](https://dsanro.com/accountingservices/)
-
 - Currently involved in the project [UDG SPACE: Mars Rover.](https://www.instagram.com/marsrover_udegspace/?theme=dark)
-
 - Currently learning **advanced cloud hosting and Linux server management.**
-
 - 👯 Looking to collaborate on **AI-based projects, full-stack development, and innovative robotics.**
-
 - 🤝 Looking for help with **cutting-edge technologies in computer vision and machine learning.**
-
 - 👨‍💻 All of my projects are available at [https://github.com/EdwinOrtegaGutierrez](https://github.com/EdwinOrtegaGutierrez)
-
 - 💬 Ask me about **cloud infrastructure, AI, robotics, backend and frontend development, and microservices.**
-
 - 📫 How to reach me: **eddyded49@gmail.com**
-
 - 📄 Know about my experiences: [https://github.com/EdwinOrtegaGutierrez](https://github.com/EdwinOrtegaGutierrez)
-
 - ⚡ Fun fact: **I'm passionate about merging music with technology.**
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
 <p align="left">
-    <a href="https://twitter.com/edwinomarorteg2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="edwinomarorteg2" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/edwin-omar-ortega-gutiérrez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edwin omar ortega gutiérrez" height="30" width="40" /></a>
-    <a href="https://fb.com/eddyded49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eddyded49" height="30" width="40" /></a>
-    <a href="https://instagram.com/eddy.orteg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eddy.orteg" height="30" width="40" /></a>
+    <a href="https://twitter.com/edwinomarorteg2" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="edwinomarorteg2" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/edwin-omar-ortega-gutiérrez" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edwin omar ortega gutiérrez" height="30" width="40" /></a>
+    <a href="https://fb.com/eddyded49" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eddyded49" height="30" width="40" /></a>
+    <a href="https://instagram.com/eddy.orteg" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eddy.orteg" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools:
 <div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content:center;">
     <div style="padding: 20px; background-color: #97f294; border-radius: 10px; width: 150px; display: flex; justify-content: center; align-items: center; flex-wrap:wrap;">
         <span style='font-weight:500; margin-bottom:10px;color:#151c26;'>Frontend Development:</span>
@@ -118,7 +111,7 @@
     </div>
 </div>
 
-<h3 align="left">Support.</h3>
+### Support.
 <p style='display:flex; gap:20px; justify-content:center;'>
     <a href="https://www.buymeacoffee.com/eddyded49s"> 
         <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="eddyded49s" />
@@ -128,7 +121,7 @@
     </a>
 </p>
 
-<h3 align="left">GitHub Information.</h3>
+### GitHub Information.
 <div style='display:flex; flex-wrap:wrap; gap:10px; justify-content:center;'>
     <p><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=EdwinOrtegaGutierrez&show_icons=true&locale=en&layout=compact" alt="edwinortegagutierrez" height='200'/></p>
     <p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EdwinOrtegaGutierrez&show_icons=true&locale=en" alt="edwinortegagutierrez" height='200'/></p>
